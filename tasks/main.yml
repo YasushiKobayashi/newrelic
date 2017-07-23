@@ -14,3 +14,4 @@
 
 - name: start
   service: name=newrelic-sysmond state=started enabled=yes
+  when: newrelic_api_key is defined
