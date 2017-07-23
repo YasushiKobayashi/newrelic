@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/YasushiKobayashi/initial-setting.svg?branch=master)](https://travis-ci.org/YasushiKobayashi/initial-setting)
-[![Run Status](https://api.shippable.com/projects/5970a17f6b05110700ae8bca/badge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/initial-setting)
-[![Coverage Badge](https://api.shippable.com/projects/5970a17f6b05110700ae8bca/coverageBadge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/initial-setting)
+[![Build Status](https://travis-ci.org/YasushiKobayashi/newrelic.svg?branch=master)](https://travis-ci.org/YasushiKobayashi/newrelic)
+[![Run Status](https://api.shippable.com/projects/59749524d366f4070013770f/badge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/newrelic)
+[![Coverage Badge](https://api.shippable.com/projects/59749524d366f4070013770f/coverageBadge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/newrelic)
 
 ### install
 `ansible-galaxy install YasushiKobayashi.initial-setting`
