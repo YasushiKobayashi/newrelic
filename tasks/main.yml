@@ -10,6 +10,7 @@
 
 - name: set api key
   command: /usr/sbin/nrsysmond-config --set license_key={{ newrelic_api_key }}
+  when: newrelic_api_key is defined
 
 - name: start
   service: name=newrelic-sysmond state=started enabled=yes
