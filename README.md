@@ -9,7 +9,7 @@
 - cenos6
 - amazone-linux
 
-### set api key
+### set your api key
 ```yml
 vars:
   newrelic_api_key: xxx
